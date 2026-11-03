@@ -1,0 +1,3 @@
+i was coding rn
+i was learning file handling in python
+it was aabout merging and deleting and checking the path of files

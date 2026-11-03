@@ -1,0 +1,10 @@
+--- science-notes.txt ---
+hi i am rayan
+i am 16 years old
+i am learning coding
+i am in 10th class
+--- maths-notes.txt ---
+i was coding rn
+i was learning file handling in python
+it was aabout merging and deleting and checking the path of files
+
